@@ -1,1 +1,1 @@
-# Verzeo-major-project
+# Verzeo-majorproject
